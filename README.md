@@ -75,3 +75,7 @@ Seguem as histórias de usuário:
 2. Desenvolver uma API simples usando Flask para gerenciar os planos de fidelidade disponíveis [João Guilherme Marcondes de Souza Costa]
 3. Desenvolver uma interface gráfica simples com Tkinter para consulta de planos [Arthur Felipe Ferreira]
 4. Integrar a API Flask com a interface gráfica para mostrar os planos disponíveis, seus benefícios e prerrequisitos [Arthur Felipe Ferreira]
+
+##Diagramas UML
+![Diagrama de Casos de Uso](diagrams/usecase-diagram.png)
+![Diagrama de Classes](diagrams/class-diagram.png)
