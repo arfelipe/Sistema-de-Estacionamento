@@ -4,7 +4,7 @@ import requests
 from datetime import datetime
 
 # Funções de consulta e cadastro
-
+#Consulta Placas
 def consultar_placas():
     try:
         response = requests.get("http://127.0.0.1:5000/placas")  # Verifique a rota correta na API
